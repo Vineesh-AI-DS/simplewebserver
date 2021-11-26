@@ -100,8 +100,18 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-
+### Client Side Output:
+![Screenshotb](https://user-images.githubusercontent.com/93427254/143613151-81e1079b-5f8c-4c28-ab4e-a9c6655470ca.png)
 ![Screenshota](https://user-images.githubusercontent.com/93427254/143613003-30ff545f-4dee-4e3e-9cb9-1ab3274160d1.png)
+![Screenshotc](https://user-images.githubusercontent.com/93427254/143613186-59a6f3ff-fcc7-4afa-b263-1716d09e7a9f.png)
+### Server Side Output:
+![Screenshotd](https://user-images.githubusercontent.com/93427254/143613264-feebb22b-8326-46a7-8ef1-96e3b109c66c.png)
+![Screenshote](https://user-images.githubusercontent.com/93427254/143613284-b9d1665d-3817-4088-94d0-7bcc692977a2.png)
+![Screenshotf](https://user-images.githubusercontent.com/93427254/143613293-a339111f-b584-4734-acce-e82f832b69ac.png)
+![Screenshotg](https://user-images.githubusercontent.com/93427254/143613355-96f1e183-0110-4ee7-8009-89e0b7b56626.png)
+
+
+
 
 
 ## RESULT:
