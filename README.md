@@ -101,5 +101,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
+![Screenshota](https://user-images.githubusercontent.com/93427254/143613003-30ff545f-4dee-4e3e-9cb9-1ab3274160d1.png)
+
 
 ## RESULT:
